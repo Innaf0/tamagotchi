@@ -1,0 +1,3 @@
+[submodule "tamagotchi/library/opl"]
+	path = tamagotchi/library/opl
+	url = https://github.com/Seeed-Studio/OPL_Kicad_Library
