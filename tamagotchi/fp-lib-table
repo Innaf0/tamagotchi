@@ -1,4 +1,6 @@
 (fp_lib_table
 	(version 7)
 	(lib (name "Seeed Studio XIAO Series Library") (type "KiCad") (uri "${KIPRJMOD}/library/opl/Seeed Studio XIAO Series Library") (options "") (descr ""))
+	(lib (name "tamagotchi") (type "KiCad") (uri "/Users/fannibalazs/Projects/tamagotchi/tamagotchi") (options "") (descr ""))
+	(lib (name "JINX") (type "KiCad") (uri "${KIPRJMOD}/JINX.pretty") (options "") (descr ""))
 )
