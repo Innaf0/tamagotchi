@@ -7,7 +7,7 @@ and here's the rendered case which will be transparent so my art could be seen:3
 <img width="1920" height="1080" alt="tamagotchi" src="https://github.com/user-attachments/assets/6517629e-4a14-48fd-8182-d069c8d5c860" />
 heres my ZINE page
 <img width="438" height="613" alt="A5 sheet of paper WITH BLEED (+ 0 125_ on all sides)" src="https://github.com/user-attachments/assets/dba4e93a-7d49-41a9-a749-79e06dd7b640" />
-
+I made this project to learn the basics of hardware
 this is my very first hardware project so thats why i decided to follow a guide instead of straight up jumping in to smth i didnt even know how to handle, this is my 2nd or maybe 3rd read.me so tbh idk if this is any good but anyways;)
 
 
